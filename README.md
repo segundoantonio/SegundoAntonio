@@ -7,4 +7,4 @@
 
 Or send me an email 📫&nbsp;&nbsp;&nbsp; antoniohsegundo@gmail.com
 
-[![My Skills](https://skillicons.dev/icons?i=idea,java,js,ts,html,css,git,mysql,maven,jquery,ps)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=idea,java,js,ts,html,css,git,mysql,postman,jquery,ps)](https://skillicons.dev)
